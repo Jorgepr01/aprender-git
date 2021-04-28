@@ -1,1 +1,5 @@
-ya=67
+
+function saludo (){;
+    alert ("hola hermanote");
+
+}
